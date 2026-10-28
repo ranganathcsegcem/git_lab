@@ -1,7 +1,7 @@
 
 my first git lab
 
-hi I am from DS, GCEM
+hi I am from CSE DS, GCEM
 
 I am from India
 
