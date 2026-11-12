@@ -1,12 +1,4 @@
 
 my first git lab
 
-hi I am from CSE DS, GCEM
-
-I am from India
-
-Work in Progress
-
-I am still cse
-I am still cs
- i am still here
+hello
