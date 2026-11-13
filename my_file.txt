@@ -1,8 +1,6 @@
 
 my first git lab
 
-
-
 hello
 hi
 
